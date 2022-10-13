@@ -1,0 +1,43 @@
+.contenedor {
+	background-color: black;
+	display: inline-flex;
+	flex-direction: column;
+	margin-top: 0px;
+	margin-left: 1000px;
+}
+
+.item1{
+	background-color: firebrick;
+	width: 250px;
+	height: 250px;
+	margin: 1px;
+	font-size: 30px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+
+.item2{
+	background-color: blue;
+	width: 250px;
+	height: 250px;
+	margin: 1px;
+	font-size: 30px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+
+.item3{
+	background-color: green;
+	width: 250px;
+	height: 250px;
+	margin: 1px;
+	font-size: 30px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
